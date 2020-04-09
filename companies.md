@@ -27,12 +27,16 @@ organized under **Numbers**.
 ## A
 
 ### Amara,
-6-8 Bonhill Street,
+1 Primrose St,
 London.
-EC2A 4BX
+EC2A 2EX
 
 * https://www.amara.com
 * [@amaraliving](https://twitter.com/amaraliving)
+
+PHP Tech: Symfony, behat, PHPUnit
+
+Company Activity: Provide the best designer homeware combined with the highest quality customer service
 
 ### Ayima,
 1st Floor,
@@ -72,7 +76,7 @@ United Kingdom
 London.
 W1T 4JD
 
-* http://www.dennis.co.uk | [careers](http://www.denniscareers.co.uk/)
+* https://www.dennis.co.uk | [careers](https://www.dennis.co.uk/careers/)
 * [@lifeatdennis](https://twitter.com/lifeatdennis)
 
 PHP Tech: e.g. Drupal.
@@ -85,7 +89,14 @@ SW6 3JA
 * https://www.deskpro.com | [DeskPRO Jobs](https://www.deskpro.com/careers/)
 
 ## E
+### EmailOctopus,
+11-17 Exmouth Place,
+Hackney,
+London
+E8 3RW
 
+* https://emailoctopus.com/
+* [@emailoctopusco](https://twitter.com/EmailOctopus)
 
 ## F
 
@@ -102,6 +113,17 @@ PHP Tech: WordPress, Drupal, Symphony/Silex, Various APIs, e.g. SalesForce, Mail
 
 ## G
 
+### Gousto,
+Unit 1.8 & 1.9, The Shepherds Building Central,
+Charecroft Way, Hammersmith,
+London
+W14 0EE
+
+* https://www.gousto.co.uk/
+* [@goustotech](https://twitter.com/goustotech)
+* [Engineering Blog](https://medium.com/gousto-engineering-techbrunch)
+
+PHP Tech: Laravel, PHPUnit, etc.
 
 ## H
 
@@ -127,6 +149,19 @@ WC1A 1DG
 
 
 ## M
+
+### MyBuilder,
+31a Clerkenwell Close,
+Clerkenwell,
+London.
+EC1R 0AT
+
+* https://www.mybuilder.com | [careers](https://careers.mybuilder.com/) | [Tech blog](https://tech.mybuilder.com/)
+* [@mybuilder](https://twitter.com/mybuilder?lang=en)
+qq
+PHP Tech: Symfony, DDD, PHPUnit, [Cronos bundle](https://github.com/mybuilder/cronos-bundle), [Supervisor bundle](https://github.com/mybuilder/supervisor-bundle)
+
+Company Activity: The better way to find a builder
 
 
 ## N
@@ -169,7 +204,7 @@ EC2Y 9DT
 London.
 W1F 7TU
 
-* https://www.spotify.com/uk/ | [Spotify Jobs](https://www.spotify.com/uk/jobs/opportunities/)
+* https://www.spotify.com/uk/ | [Spotify Jobs](https://www.spotifyjobs.com/search-jobs/)
 * [@spotify](https://twitter.com/spotify)
 
 ## T
@@ -180,7 +215,7 @@ Blue Fin Building,
 London
 SE1 0SU 
 
-* http://www.timeincuk.com/ | http://www.timeincuk.com/careers/
+* https://www.ti-media.com | https://www.ti-media.com/careers/
 * [@TimeIncUK](https://twitter.com/TimeIncUK)
 
 
@@ -190,8 +225,17 @@ SE1 0SU
 London
 WC2H 8AD
 
-* http://www.timeout.com/
+* https://www.timeout.com/
 * [@timeout](https://twitter.com/timeout)
+
+### Ticket Tailor
+Unit 11
+11 - 17 Exmouth Place
+London
+E8 3RW
+
+* https://www.tickettailor.com/
+* [@tickettailor](https://twitter.com/tickettailor)
 
 ## U
 
@@ -219,6 +263,12 @@ Company Activity: International Currency Transfers
 
 
 ## Z
+
+### Zoopla Property Group
+ZPG Plc, The Cooperage, 5 Copper Row, London SE1 2LH
+
+* https://www.zoopla.co.uk/about/ | [Careers](https://www.zpg.co.uk/careers)
+* [@ZPGCareers](https://twitter.com/zpgcareers)
 
 ----
 Want to add a company? Something is wrong in this list? Just <a href="https://github.com/alister/php-in-london/edit/master/companies.md">fork and edit</a> it!  Edits can be done in just a moment entirely within the Github website.
